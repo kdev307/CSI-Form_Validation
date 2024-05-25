@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Question
+
+Create a React form with validation for required fields without using third party libraries, Display error messages, disable submission until fields are filled correctly, and show all the filled details on a new route post-successful submission. Fields required: First Name, Last Name, Username, E-mail, password (show/hide), PhoneNo. (country code \_\_\_\_ number), country (dropdown), city (dropdown), Pan No. & Aadhar No.
+
+Resources :
+https://youtu.be/EWfHJI3M0Fs?si=DHrfYCiryE5wQswAhttps://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions
